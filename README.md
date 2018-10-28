@@ -1,4 +1,3 @@
 # RNN-LSTM-and-Fooling-Images-
-Image Captioning in a sentence using RNN and LSTM,Fooling Images
-
-Course-cs231n
+Implementation of RNN and LSTMs from scratch
+Image Captioning; Combination of CNNs and LSTMs
